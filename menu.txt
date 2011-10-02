@@ -1,0 +1,13 @@
+1, 4.00, ham_sandwich 
+1, 8.00, burrito
+2, 5.00, ham_sandwich
+2, 6.50, burrito
+3, 0.50, Pepsi
+3, 0.99, ham_sandwich
+3, 4.00, churro, burrito
+3, 1.00, Pepsi
+3, 6.25, burrito, chicken
+4, 3.75, ham_sandwich
+4, 3.50, ham_sandwich, Coke
+5, 0.20, ham_sandwich
+6, 0.15, ham_sandwich
